@@ -1,0 +1,4 @@
+meu_ambiente/
+__pycache__/
+*.so
+*.csv
