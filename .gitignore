@@ -2,7 +2,6 @@ __pycache__/
 *.so
 *.csv
 *.png
-*.pkl
 *.env
 *.cfg
 meu_ambiente/
